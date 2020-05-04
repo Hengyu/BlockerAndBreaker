@@ -13,9 +13,9 @@ Design and implement the game **Blocker & Breaker**.  We refer the game as **BnB
 
 In a game, the player is represented with a pink heart 💖. In the beginning, a player is placed in a very dark area ▓. To win the game, they should find a path ➤, get out of this dark area 🌑, and see the light ☀️.
 
-However, things are not so easy. In the pursuit of the light, there are different kinds of blockers underneath the darkness. A blocker can sabotage the movement of the player (💖); a blocker can make the pink circle become darker (⬜️). 
+However, things are not so easy. In the pursuit of the light, there are different kinds of blockers underneath the darkness. A blocker can sabotage movements of the player (💖); a blocker can make the pink heart become darker (⬜️). 
 
-If the player encounter a lot of block, their pink circle may become darker and darker, and finally turns into a dark heart (🖤). When the heart becomes a COMPLETELY dark, the player get lost in the darkness, and the endless darkness is awaiting for them.
+If the player encounter a lot of blockers, their pink heart may become darker and darker, and finally turns into a dark heart (🖤). When the heart becomes to the COMPLETELY dark, the player get lost in the darkness, and the endless darkness is awaiting for them.
 
 ## How to Win?
 
